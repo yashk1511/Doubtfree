@@ -1,4 +1,4 @@
-# Doubtfree_backend
+# Doubtfree
 
 Do not forget to create file .env file
 
